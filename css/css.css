@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+section{
+    width: 1000px;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+/*SECCIÓN 1*/
+.TITULO{
+    color:black;/*CAMBIA EL COLOR DEL TEXTO*/
+    Font-size:25px;/*CAMBIA EL TAMA;O DEL TEXTO*/
+    font-family:fantasy;/*TIPO DE LETRA*/   
+    margin: 20px 0px 0px 0px;
+}
+
+P{
+    Font-size:17px;
+    margin: 30px 0px 0px 0px;
+}
+/*SECCIÓN 2*/
+
+.titulo{
+    text-align:center;
+    Font-size:25px;
+    color:white;
+    background-color:purple;
+    font-family: cursive;
+}
+
+.Parrafo{
+    Font-size:17px;
+    color:darkblue;
+    font-family:serif;
+}
+/*SECCIÓN 3*/
+.s3{
+    padding: 0px 0px 0px 30px;
+}
+
+li{
+   Font-size:10px
+   color:darkslategray;
+   font-family: sans-serif;
+    
+}
