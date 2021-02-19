@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: monospace;
 }
 section{
     width: 1000px;
@@ -9,64 +9,69 @@ section{
     box-sizing: border-box;
 }
 
-/*SECCIÓN 1*/
+/*-------------SECCIÓN 1*/
 .TITULO{
     color:black;
-    Font-size:25px;
+    Font-size:30px;
     font-family:fantasy;   
-    margin: 20px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
-
-/*SECCIÓN 2*/
-
-.titulo_tabla{
-    text-align:center;
-    Font-size:25px;
-    color:white;
+.descripcion_section1{
+    font-size: 15px;
+}
+/*-------------SECCIÓN 2*/
+.tabla_tipo_etiquetas{
+    
+}
+.tabla_tipo_etiquetas{
+    border: 1px solid gray;
+}
+.filaTitulo{
     background-color:#182126;
-    font-family:fantasy; 
+}
+.txt_titulo{
+    padding: 5px 0px 5px 0px;
+    font-size: 25px;
+    text-align:center;
+    color:white;
+}
+.descripcion_tipo_etiquetas td{
+    font-size:15px;
+    width:50%;
+    padding: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    text-align: justify;
 }
 
-.subtitulo{
+/*-------------SECCIÓN 3*/
+.titulo_categoria{
     Font-size:17px;
     color:#182126;
 }
-/*secton_texto*/
-
-.li{
-    Font-size:10px
+.ls_tipo_etiqueta{
     color:darkslategray;
     font-family: sans-serif;
     list-style: none;
-    
+    margin: 0px 0px 0px 50px;
 }
-.h2{
-    font-size: 1.3em;
-    margin-top: 1em;
+.titulo_elemento_categoria{
+    Font-size:17px;
+    color:#182126;
+    margin: 10px 0px 0px 0px;
 }
-.p{
-    font-size: 1.2em;
+.descripcion_elemento{
+    font-size: 15px;
 }
-/*sublista*/
-.sub_lista{
-    margin: 10px 0px 0px 20px;
-}
-
-.sub_lista li{
-    margin: 10px 0px 0px 20px;
-}
-
-.p_head{
-    color: #239B56;
-}
-.p_body{
-    color:#D35400;
+/*____tablas de head y body*/
+.titulo_para_head, .titulo_para_body{
+    font-size: 15px;
+    padding: 20px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
-
-
-
-
+.txt_etiqueta{
+    width: 300px;
+}
 
 
 
