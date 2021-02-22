@@ -8,6 +8,14 @@ section{
     margin: 30px auto;
     box-sizing: border-box;
 }
+/*----- encabezado*/
+.encabezado h1{
+    width: 1300px;
+    font-size:20px;
+    margin: 20px 0px 0px 0px;
+    font-family:fantasy;
+    text-align: right;
+}
 
 /*-------------SECCIÓN 1*/
 .TITULO{
@@ -44,6 +52,9 @@ section{
 }
 
 /*-------------SECCIÓN 3*/
+.color-tr{
+    background-color: #E5E8E8;
+}
 .titulo_categoria{
     Font-size:17px;
     color:#182126;
@@ -53,6 +64,9 @@ section{
     font-family: sans-serif;
     list-style: none;
     margin: 0px 0px 0px 50px;
+}
+.ls_tipo_etiqueta li{
+    margin: 10px 0px 50px 0px;
 }
 .titulo_elemento_categoria{
     Font-size:17px;
@@ -65,12 +79,14 @@ section{
 /*____tablas de head y body*/
 .titulo_para_head, .titulo_para_body{
     font-size: 15px;
-    padding: 20px 0px 0px 0px;
-    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+    margin: 10px 0px 10px 0px;
 }
 
 .txt_etiqueta{
     width: 300px;
+    vertical-align:top;
+    padding-bottom: 15px;
 }
 
 
