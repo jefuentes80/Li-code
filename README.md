@@ -10,6 +10,6 @@
 |  Nombre: | Jossue Emmanuel Fuentes  |
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
-|  Mi trabajo | https://jefuentes80.github.io/Ejercicio_2/.  |
+|  Mi trabajo | https://jefuentes80.github.io/Li-code/  |
 
 
